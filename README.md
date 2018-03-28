@@ -8,3 +8,5 @@
 ## svm:
 >1.LinearSVC <br>
 ----------------------------
+## test classifier:
+>1.Naive Yabes
