@@ -16,3 +16,7 @@
 --------------------------
 ## multiattribute
 >1.DecisionTree Classifier <br>
+------------------------------
+## Regression
+>1.LinearRegression <br>
+>2.SGDRegression <br>
